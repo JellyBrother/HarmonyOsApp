@@ -1,0 +1,50 @@
+{
+  "src": [
+    "oxhorncampus/pages/Splash",
+    "oxhorncampus/pages/MainPage",
+
+    "calendar/pages/Index",
+    "calendar/pages/SearchPage",
+    "calendar/pages/morePage",
+
+    "tiktok/pages/Index",
+    "tiktok/pages/RegisterPage",
+    "tiktok/pages/PortraitAlbumPage",
+    "tiktok/pages/VideoAlbumPage",
+
+    "practicecard/pages/Index",
+    "practicecard/pages/LoginPage",
+    "practicecard/pages/SplashPage",
+    "practicecard/Test/newPage",
+    "practicecard/pages/CirclePage",
+    "practicecard/pages/CardHistory",
+    "practicecard/pages/PracticePage",
+
+    "wanharmony/pages/Index",
+    "wanharmony/pages/WebPage",
+    "wanharmony/pages/Login",
+    "wanharmony/pages/SearchEntry",
+    "wanharmony/pages/SearchResult",
+    "wanharmony/pages/CollectList",
+
+    "moviemusic/movie/pages/LaunchPage",
+    "moviemusic/movie/pages/IndexPage",
+    "moviemusic/movie/pages/MovieDetailPage",
+    "moviemusic/movie/pages/MoviePlayPage",
+    "moviemusic/movie/pages/MovieUserPage",
+    "moviemusic/movie/pages/MovieLoginPage",
+    "moviemusic/movie/pages/MovieRegisterPage",
+    "moviemusic/movie/pages/MovieSearchPage",
+    "moviemusic/music/pages/MusicIndexPage",
+    "moviemusic/music/pages/MusicPlayerPage",
+    "moviemusic/music/pages/MusicSearchPage",
+    "moviemusic/music/pages/MusicSharePage",
+    "moviemusic/music/pages/MusicFavoriteListPage",
+    "moviemusic/music/pages/MusicClassifyListPage",
+    "moviemusic/music/pages/MusicAuthorCategoryPage",
+    "moviemusic/music/pages/MusicAuthorMusicListPage",
+    "moviemusic/music/pages/MusicCategoryPage",
+
+    "oxhorncampus/movie/components/HomeComponent"
+  ]
+}
